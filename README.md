@@ -1,4 +1,7 @@
 # Notebook do curso *"Machine Learning: classificação com SKLearn"*
+<p align="center">
+<img width="800" height="400" alt="de7cea1d-be4d-4209-b72d-449d06408bd1" src="https://github.com/user-attachments/assets/df524c5d-3fe5-4235-9fb8-5b4944760591"/>
+</p> 
 
 ## 🚀 Tecnologias Utilizadas
 <img loading="lazy" src="https://img.shields.io/badge/Python-darkblue"/>      <img loading="lazy" src="https://img.shields.io/badge/ScikitLearn-yellow"/>      <img loading="lazy" src="https://img.shields.io/badge/Pandas-purple"/>      <img loading="lazy" src="https://img.shields.io/badge/Numpy-green"/>      <img loading="lazy" src="https://img.shields.io/badge/Matplotlib-orange"/>
